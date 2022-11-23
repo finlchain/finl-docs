@@ -1,0 +1,57 @@
+# Table of contents
+
+* [Introduction to FINL](README.md)
+  * [Why  FINL?](introduction-to-finl/why-finl.md)
+  * [What is FINL?](introduction-to-finl/what-is-finl.md)
+  * [FINL Brand Assets](introduction-to-finl/finl-brand-assets.md)
+  * [History of FINL](introduction-to-finl/history-of-finl.md)
+  * [Glossary](introduction-to-finl/glossary.md)
+  * [Terminology](introduction-to-finl/terminology.md)
+  * [Disclaimer](introduction-to-finl/disclaimer.md)
+
+## BASIC GUIDES
+
+* [Get Started](basic-guides/get-started/README.md)
+  * [Quick Start](basic-guides/get-started/quick-start/README.md)
+    * [DalDal Wallet](basic-guides/get-started/quick-start/daldal-wallet.md)
+    * [FINL Scan](basic-guides/get-started/quick-start/finl-scan.md)
+
+## ADVANCED GUIDES
+
+* [Developers](advanced-guides/developers/README.md)
+  * [Overall Architecture](advanced-guides/developers/overall-architecture.md)
+  * [Core Concepts](advanced-guides/developers/core-concepts/README.md)
+    * [Networks](advanced-guides/developers/core-concepts/networks/README.md)
+      * [P2P](advanced-guides/developers/core-concepts/networks/p2p.md)
+      * [Consensus](advanced-guides/developers/core-concepts/networks/consensus.md)
+    * [Accounts](advanced-guides/developers/core-concepts/accounts.md)
+    * [Transactions](advanced-guides/developers/core-concepts/transactions.md)
+    * [Control Agencies](advanced-guides/developers/core-concepts/control-agencies/README.md)
+      * [IS](advanced-guides/developers/core-concepts/control-agencies/is.md)
+      * [ISAG](advanced-guides/developers/core-concepts/control-agencies/isag.md)
+      * [ISA](advanced-guides/developers/core-concepts/control-agencies/isa.md)
+    * [Data Agencies](advanced-guides/developers/core-concepts/data-agencies/README.md)
+      * [SCA](advanced-guides/developers/core-concepts/data-agencies/sca.md)
+      * [NNA](advanced-guides/developers/core-concepts/data-agencies/nna.md)
+      * [FBN](advanced-guides/developers/core-concepts/data-agencies/fbn.md)
+    * [FINL Virtual Machine](advanced-guides/developers/core-concepts/finl-virtual-machine.md)
+  * [Clients](advanced-guides/developers/clients/README.md)
+    * [APIs](advanced-guides/developers/clients/apis.md)
+  * [Installation](advanced-guides/developers/installation/README.md)
+    * [Full Block Node](advanced-guides/developers/installation/full-block-node.md)
+  * [Operation](advanced-guides/developers/operation.md)
+  * [Tutorials](advanced-guides/developers/tutorials.md)
+  * [Tools](advanced-guides/developers/tools/README.md)
+    * [DalDal Wallet](advanced-guides/developers/tools/daldal-wallet.md)
+    * [FINL Scan](advanced-guides/developers/tools/finl-scan.md)
+* [Economics](advanced-guides/economics/README.md)
+  * [Native Coin - FIN](advanced-guides/economics/native-coin-fin.md)
+  * [Token Economy](advanced-guides/economics/token-economy.md)
+  * [Governance](advanced-guides/economics/governance/README.md)
+    * [FINL Foundation](advanced-guides/economics/governance/finl-foundation.md)
+* [Improvement Proposals](advanced-guides/improvement-proposals.md)
+* [Scaling Solutions](advanced-guides/scaling-solutions.md)
+
+## LEGAL ISSUES
+
+* [Terms of Use](legal-issues/terms-of-use.md)
