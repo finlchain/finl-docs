@@ -1,10 +1,12 @@
 # Why FINL?
 
+## Philosophy
+
 FINL is designed to enable digital trust-guaranteed transactions using high-frequency transactions and smart contracts based on Delegated Proof of Reputation (DPoR).
 
 These digital trust processors are largely classified into relationship trust, information trust, process trust, and transaction trust. First, the trust of the relationship is established through the globally connected blockchain delegated reputation proof network. Second, it establishes trust in contract information through oracle problem solving. Third, trust in the process is achieved through securing transparency and regular and periodic confirmation of the transaction verification process. And fourth, the trust of the transaction is achieved by securing the stability and reliability of the transaction.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 In other words, the digital trust process must maintain a fair and transparent process flow for the value and transaction of information. To this end, first, the governance structure of the decentralized network is effectively established and transparently operated. Second, in order to secure the trust of the relationship, a Consensus Node Tier consisting of a P2P main network and a P2P sub-network is operated. Third, establish the Wuhan user interface group (Endpoint Tier) to secure the trust of information. Fourth, to secure the trust of the process, a distributed transaction routing group (Distributed Transaction Processing Tier and Transaction Routing Tier) is operated. Fifth, we operate a distributed data storage group (Data Tier) where anyone can participate in order to secure trust in transactions.
 
@@ -14,6 +16,9 @@ FINL consists of a P2P main network and a P2P sub-network structure based on the
 
 &#x20;In addition, a decentralized decision-making device (DGOS, Distributed Governance Organization Syndicate) exists. All policies are decided by votes of members through DGOS, and the process of policy proposals, initiatives, and voting is transparently disclosed.
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## What is FINL?
 
-There is a trilemma in blockchain. The three problems of scalability, decentralization, and security cannot be solved at once. Final focused on scalability and security among these three issues. Based on high availability nodes and a fast network, even if the number of users increases, the transmission processing capacity can be increased. In addition, security is increased by adding a security element to the block chain. This does not mean, however, that decentralization has been abandoned. A decentralized consensus organization called DGOS has been established and efforts are being made to protect users' rights through voting.
+There is a trilemma in blockchain. The three problems of scalability, decentralization, and security cannot be solved at once. FINL focused on scalability and security among these three issues. Based on high availability nodes and a fast network, even if the number of users increases, the transmission processing capacity can be increased. In addition, security is increased by adding a security element to the block chain. This does not mean, however, that decentralization has been abandoned. A decentralized consensus organization called DGOS has been established and efforts are being made to protect users' rights through voting.
+
