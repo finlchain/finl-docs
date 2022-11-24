@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction to FINL](README.md)
-  * [Why  FINL?](introduction-to-finl/why-finl.md)
+  * [Why FINL?](introduction-to-finl/why-finl.md)
   * [What is FINL?](introduction-to-finl/what-is-finl.md)
   * [FINL Brand Assets](introduction-to-finl/finl-brand-assets.md)
   * [History of FINL](introduction-to-finl/history-of-finl.md)
@@ -13,7 +13,8 @@
 
 * [Get Started](basic-guides/get-started/README.md)
   * [Quick Start](basic-guides/get-started/quick-start/README.md)
-    * [DalDal Wallet](basic-guides/get-started/quick-start/daldal-wallet.md)
+    * [DalDal Wallet](basic-guides/get-started/quick-start/daldal-wallet/README.md)
+      * [About DalDal](basic-guides/get-started/quick-start/daldal-wallet/about-daldal.md)
     * [FINL Scan](basic-guides/get-started/quick-start/finl-scan.md)
 
 ## ADVANCED GUIDES
