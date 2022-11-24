@@ -14,7 +14,7 @@
 * [Get Started](basic-guides/get-started/README.md)
   * [Quick Start](basic-guides/get-started/quick-start/README.md)
     * [DalDal Wallet](basic-guides/get-started/quick-start/daldal-wallet/README.md)
-      * [About DalDal](basic-guides/get-started/quick-start/daldal-wallet/about-daldal.md)
+      * [How to Use Wallet](basic-guides/get-started/quick-start/daldal-wallet/how-to-use-wallet.md)
     * [FINL Scan](basic-guides/get-started/quick-start/finl-scan.md)
 
 ## ADVANCED GUIDES
