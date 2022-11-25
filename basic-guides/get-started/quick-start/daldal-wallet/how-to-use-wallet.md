@@ -14,7 +14,7 @@ When you lost your KeyStore File, you can **RESTORE** KeyStore File by following
 
 Click the \[Create Key] button to create your own key.
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 1-2. Password
 
@@ -41,6 +41,8 @@ You should be already on Create Wallet page by following previous step.
 #### Step 2-1. Click the \[Create Wallet]
 
 Click the \[Create Wallet] button to be a member of the FINL.
+
+<img src="../../../../.gitbook/assets/image (3).png" alt="" data-size="original">  <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="original">
 
 #### Step 2-2. Wallet Name
 
@@ -73,4 +75,39 @@ If all of the criteria below are satisfied, then the \[Create Wallet] button sho
 Press the \[Create Wallet] button.
 
 
+
+## Already Joined Users
+
+### Step 3. Import Wallet
+
+If you already have the wallet of FINL, you can use it again with the below steps.
+
+#### Step 3-1. Click the \[Import Wallet]
+
+![](../../../../.gitbook/assets/image.png)   ![](<../../../../.gitbook/assets/image (6).png>)
+
+#### Step 3-2. Terms of Service
+
+You have to read and agree to Terms of Service to create wallet for FINL.&#x20;
+
+Click the underlined text button \[Terms of Service] to check the contents of Terms of Service; And, check on the radio button.
+
+#### Step 3-3. Key
+
+Upload the KeyStore previously used to make the wallet.
+
+#### Step 3-4. Input password
+
+Enter the password that you entered on Step 1-2.
+
+**NOTE** : If you forgot the password used on Step 1-2, you CANNOT use the KeyStore File.
+
+
+
+## Restore a KeyStore file
+
+Create Key section on step 1 should be used to restore lost KeyStore file.
+
+* Write down the saved password used previously to make KeyStore file.
+* Write down the saved seed sentence used previously to make KeyStore file.&#x20;
 
