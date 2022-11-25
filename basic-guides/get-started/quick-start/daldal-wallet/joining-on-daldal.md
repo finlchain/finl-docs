@@ -104,7 +104,7 @@ Enter the password that you entered on Step 1-2.
 
 
 
-## Restore a KeyStore file
+## Restoring a KeyStore file
 
 Create Key section on step 1 should be used to restore lost KeyStore file.
 
