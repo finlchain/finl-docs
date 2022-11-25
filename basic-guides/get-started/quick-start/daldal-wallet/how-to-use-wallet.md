@@ -4,7 +4,7 @@
 
 <figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-### Step 1. Create a key
+### Step 1. Create a Key
 
 You need a KeyStore File to make and use a wallet, the account of the FINL. A KeyStore File is a json file that contains a pair of private key and public key.&#x20;
 
@@ -32,7 +32,7 @@ The generated keyStore file should be downloaded by pressing \[Create Key] butto
 
 **Please safely keep your KeyStore File.** Also you **should REMEMBER** the password and sentence written down at previous steps. If you forgot the password and the seed sentence, you **CANNOT** **restore** the KeyStore File. It means that you **CANNOT** use your wallet.
 
-### Step 2. Create Wallet
+### Step 2. Create a Wallet
 
 You have to make a wallet to be a user of the FINL. You need a KeyStore File that you have created at the previous step.
 
@@ -78,7 +78,7 @@ Press the \[Create Wallet] button.
 
 ## Already Joined Users
 
-### Step 3. Import Wallet
+### Step 3. Import a Wallet
 
 If you already have the wallet of FINL, you can use it again with the below steps.
 
