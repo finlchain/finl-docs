@@ -8,7 +8,7 @@ That means if you have made multiple wallets of FINL, you can use those together
 
 If you import another wallet, you can use that one too. You can change the wallet by choosing the one of the wallets.
 
-<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Disconnect
 
