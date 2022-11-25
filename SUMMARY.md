@@ -18,6 +18,7 @@
       * [Features of DALDAL](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/README.md)
         * [Multi-Wallet](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/multi-wallet.md)
         * [Token List](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/token-list.md)
+        * [Transactions](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/transactions.md)
     * [FINL Scan](basic-guides/get-started/quick-start/finl-scan.md)
 
 ## ADVANCED GUIDES
