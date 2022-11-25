@@ -14,7 +14,10 @@
 * [Get Started](basic-guides/get-started/README.md)
   * [Quick Start](basic-guides/get-started/quick-start/README.md)
     * [DalDal Wallet](basic-guides/get-started/quick-start/daldal-wallet/README.md)
-      * [How to Use Wallet](basic-guides/get-started/quick-start/daldal-wallet/how-to-use-wallet.md)
+      * [Joining on DALDAL](basic-guides/get-started/quick-start/daldal-wallet/joining-on-daldal.md)
+      * [Features of DALDAL](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/README.md)
+        * [Multi-Wallet](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/multi-wallet.md)
+        * [Token List](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/token-list.md)
     * [FINL Scan](basic-guides/get-started/quick-start/finl-scan.md)
 
 ## ADVANCED GUIDES

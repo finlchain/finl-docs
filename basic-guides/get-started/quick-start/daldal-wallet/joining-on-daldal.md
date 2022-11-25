@@ -1,4 +1,4 @@
-# How to Use Wallet
+# Joining on DALDAL
 
 ## New Users
 
@@ -14,7 +14,7 @@ When you lost your KeyStore File, you can **RESTORE** KeyStore File by following
 
 Click the \[Create Key] button to create your own key.
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 1-2. Password
 
@@ -42,7 +42,7 @@ You should be already on Create Wallet page by following previous step.
 
 Click the \[Create Wallet] button to be a member of the FINL.
 
-<img src="../../../../.gitbook/assets/image (3).png" alt="" data-size="original">  <img src="../../../../.gitbook/assets/image (1).png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/image (3).png" alt="" data-size="original">  <img src="../../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
 #### Step 2-2. Wallet Name
 
@@ -84,7 +84,7 @@ If you already have the wallet of FINL, you can use it again with the below step
 
 #### Step 3-1. Click the \[Import Wallet]
 
-![](../../../../.gitbook/assets/image.png)   ![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (8).png>)   ![](<../../../../.gitbook/assets/image (6).png>)
 
 #### Step 3-2. Terms of Service
 
