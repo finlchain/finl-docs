@@ -11,7 +11,7 @@ You can check bellows.
 1. The list of NFT you own, and
 2. The history of the recent 10 transfers of your own NFT.
 
-![](<../../../../../.gitbook/assets/image (1).png>)    ![](<../../../../../.gitbook/assets/image (8).png>)\
+![](<../../../../../.gitbook/assets/image (1) (3).png>)    ![](<../../../../../.gitbook/assets/image (8).png>)\
 
 
 ## NFT Token Sub-memus
@@ -32,7 +32,7 @@ A new window which moves to FINLSCAN appears. You can check the details of smart
 
 You can make a transaction with your NFT.
 
-<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### \[NFT Name] and \[Token ID] fields
 
@@ -44,7 +44,7 @@ If you decided to ‘**Transfer**’ the selected NFT to another wallet, select 
 
 Then, enter the wallet name to receive the NFT on the below area.
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Update Key (Json File)
 
@@ -54,7 +54,7 @@ You have to upload the KeyStore File of the wallet to make a signature of smart 
 
 When the entered password is proper, you can move on Next by press the \[Next >].
 
-![](<../../../../../.gitbook/assets/image (13).png>)    ![](<../../../../../.gitbook/assets/image (11).png>)
+![](<../../../../../.gitbook/assets/image (13).png>)    ![](<../../../../../.gitbook/assets/image (11) (1).png>)
 
 **NOTE :** Check your inputs before you make a transaction.
 

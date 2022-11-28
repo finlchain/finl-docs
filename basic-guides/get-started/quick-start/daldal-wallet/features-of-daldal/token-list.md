@@ -14,7 +14,7 @@ You can also \[delete] the Token from the wallet. Don't worry. Your balance of T
 
 &#x20;You can change the Token by selecting the Token name from the list.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Today Reward ( TestNet Only)
 

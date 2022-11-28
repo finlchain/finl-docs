@@ -18,7 +18,7 @@ Click the \[Send] button on \[Token List].
 
 You have to write the wallet name that you want to send the Token. If you have already imported your another wallet, you can select it from the list. Or you can also enter the other user's wallet name that exists on the FINL.
 
-<figure><img src="../../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### \[Amount] field
 
