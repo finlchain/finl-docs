@@ -28,7 +28,7 @@ The SCA in the NN subscribes to the transaction through the messaging cloud syst
 
 Users can receive their account information and various public information through Block Explorer or a similar Node Application. In addition, a user can create a transaction, and the created transaction information is published in the messaging cloud system.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Overall flow of Clusters</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Overall flow of Clusters</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Replication flow</p></figcaption></figure>
 

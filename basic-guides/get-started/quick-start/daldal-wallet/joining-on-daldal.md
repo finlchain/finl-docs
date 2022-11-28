@@ -42,7 +42,7 @@ You should be already on Create Wallet page by following previous step.
 
 Click the \[Create Wallet] button to be a member of the FINL.
 
-<img src="../../../../.gitbook/assets/image (3) (2).png" alt="" data-size="original">  <img src="../../../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/image (3) (2).png" alt="" data-size="original">  <img src="../../../../.gitbook/assets/image (1) (1) (2).png" alt="" data-size="original">
 
 #### Step 2-2. Wallet Name
 

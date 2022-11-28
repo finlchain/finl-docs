@@ -36,6 +36,10 @@ Full Block
 
 Full Block Node
 
+## FVM
+
+FINL Virtual Machine
+
 ## IS
 
 Index Server
