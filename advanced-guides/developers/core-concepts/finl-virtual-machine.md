@@ -44,3 +44,27 @@ Provides API to access database.
 
 Provides API that can determine whether Contract and Transaction are valid.
 
+## FVM Usages
+
+### LUA Script
+
+Currently, FVM is available for standalone operation using LUA Script on Linux and Windows systems. At this time, the Makefile automatically determines whether it is Windows-based or Linux-based and compiles, and the executable file can be linked with the LUA Script file.
+
+#### &#x20;lua\_addon.cpp
+
+It is a language based on C/C++ and includes a main function. The lua\_addon function implemented in this file binds various C/C++ functions that can be used in LUA Script and registers them in LUA. Also, the "luaConn" function of “main.lua” is executed, and if there is an argument value during execution, the argument value is transferred to the “luaConn” function.
+
+#### main.lua
+
+It is called from the FVM executable file and there is a “luaConn” function that can execute LUA Script.
+
+#### init.lua
+
+Register the LUA Core Script files and Configuration files used in FVM.
+
+Details related to interworking between LUA Script and FVM are provided in the manual.
+
+### nodeJS Addon
+
+
+
