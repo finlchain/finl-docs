@@ -29,6 +29,7 @@
   * [Core Concepts](advanced-guides/developers/core-concepts/README.md)
     * [Consensus Algorithm](advanced-guides/developers/core-concepts/networks.md)
     * [Security](advanced-guides/developers/core-concepts/security.md)
+    * [Token](advanced-guides/developers/core-concepts/token.md)
     * [Wallet](advanced-guides/developers/core-concepts/wallet.md)
     * [Accounts](advanced-guides/developers/core-concepts/accounts.md)
     * [Transactions](advanced-guides/developers/core-concepts/transactions.md)

@@ -11,7 +11,7 @@ You can check bellows.
 1. The list of NFT you own, and
 2. The history of the recent 10 transfers of your own NFT.
 
-![](<../../../../../.gitbook/assets/image (1) (3).png>)    ![](<../../../../../.gitbook/assets/image (8).png>)\
+![](<../../../../../.gitbook/assets/image (1) (3) (2).png>)    ![](<../../../../../.gitbook/assets/image (8).png>)\
 
 
 ## NFT Token Sub-memus

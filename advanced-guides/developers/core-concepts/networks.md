@@ -10,7 +10,7 @@ Each NNA belonging to the consensus group is logically composed of a P2P Network
 
 ### P2P Network Layer
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>P2P Header Description</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>P2P Header Description</p></figcaption></figure>
 
 The P2P address system, which is the basis of the P2P network, consists of a total of 64 bits.
 
