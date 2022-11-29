@@ -2,7 +2,7 @@
 
 ## Block Description
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Block Contents</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Block Contents</p></figcaption></figure>
 
 Blocks are created in the consensus layer of the NNA. Block Fields are Block Number, NNA's P2P Address that creates Block, Block Generation Time (BGT), Previous Block Hash (PBH), Transaction Count, Block Hash, Signature, Public Key matching the Private Key used for Signature, and It consists of Block Confirm Time (BCT).
 

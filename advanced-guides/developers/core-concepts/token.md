@@ -4,7 +4,7 @@ Tokens are largely divided into Platform Tokens and Utility Tokens. Platform Tok
 
 It can be freely published under the permission of DGOS.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Action Numbers of Token and Smart Contract</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (4).png" alt=""><figcaption><p>Action Numbers of Token and Smart Contract</p></figcaption></figure>
 
 The unique number of Token and Smart Contract is designated as Action and is used when creating a token contract and transmitting tokens.
 
