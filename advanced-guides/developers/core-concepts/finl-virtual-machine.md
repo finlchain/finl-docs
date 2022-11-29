@@ -62,9 +62,15 @@ It is called from the FVM executable file and there is a “luaConn” function 
 
 Register the LUA Core Script files and Configuration files used in FVM.
 
-Details related to interworking between LUA Script and FVM are provided in the manual.
+**NOTE :** Details related to interworking between LUA Script and FVM are provided in the manual.
 
 ### nodeJS Addon
 
+FVM can be used as an Addon of nodeJS on Linux basis.
 
+#### addon.cpp
+
+It is a C/C++ based language and includes Initialize function for nodeJS addon. The Initialize function implemented in this file is registered by binding various C/C++ functions that can be used in nodeJS.
+
+**NOTE :** Details related to interworking between nodeJS and FVM are provided in the manual.
 
