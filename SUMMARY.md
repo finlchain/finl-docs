@@ -35,6 +35,7 @@
     * [Smart Contract](advanced-guides/developers/core-concepts/smart-contract.md)
     * [Transactions](advanced-guides/developers/core-concepts/transactions.md)
     * [Block](advanced-guides/developers/core-concepts/block.md)
+    * [Distributed Database](advanced-guides/developers/core-concepts/distributed-database.md)
     * [Control Agencies](advanced-guides/developers/core-concepts/control-agencies/README.md)
       * [IS](advanced-guides/developers/core-concepts/control-agencies/is.md)
       * [ISAG](advanced-guides/developers/core-concepts/control-agencies/isag.md)
@@ -55,9 +56,9 @@
     * [FINL Scan](advanced-guides/developers/tools/finl-scan.md)
 * [Economics](advanced-guides/economics/README.md)
   * [Native Coin - FIN](advanced-guides/economics/native-coin-fin.md)
-  * [Token Economy](advanced-guides/economics/token-economy.md)
   * [Governance](advanced-guides/economics/governance/README.md)
     * [FINL Foundation](advanced-guides/economics/governance/finl-foundation.md)
+  * [Token Economy](advanced-guides/economics/token-economy.md)
 * [Improvement Proposals](advanced-guides/improvement-proposals.md)
 * [Scaling Solutions](advanced-guides/scaling-solutions.md)
 
