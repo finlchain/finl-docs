@@ -1,2 +1,0 @@
-# FINL Foundation
-
