@@ -28,6 +28,7 @@
   * [Overall Architecture](advanced-guides/developers/overall-architecture.md)
   * [Core Concepts](advanced-guides/developers/core-concepts/README.md)
     * [Consensus Algorithm](advanced-guides/developers/core-concepts/networks.md)
+    * [Wallet](advanced-guides/developers/core-concepts/wallet.md)
     * [Accounts](advanced-guides/developers/core-concepts/accounts.md)
     * [Transactions](advanced-guides/developers/core-concepts/transactions.md)
     * [Control Agencies](advanced-guides/developers/core-concepts/control-agencies/README.md)

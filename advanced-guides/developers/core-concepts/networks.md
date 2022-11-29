@@ -6,7 +6,7 @@ A consensus group refers to a set of NNAs that participate in the process of cre
 
 Each NNA belonging to the consensus group is logically composed of a P2P Network Layer and a Consensus Layer developed by itself on the TCP/IP Layer basis. The Security Layer supports the security functions of the P2P Network Layer and Consensus Layer such as ECIES, X25519, ECDSA, and EDDSA.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Logical layer of NNA</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (4).png" alt=""><figcaption><p>Logical layer of NNA</p></figcaption></figure>
 
 ### P2P Network Layer
 
@@ -18,7 +18,7 @@ The upper 32 bits contain GPS information and consist of 16 bits of latitude and
 
 The lower 32 bits are the chain code, continent code, country code, national hub network code, hub ne twork subnet code, subnet node address, etc. indicating whether this blockchain platform operates as a public or private blockchain, is used as.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>P2P Address System</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (5).png" alt=""><figcaption><p>P2P Address System</p></figcaption></figure>
 
 ### Consensus Layer
 
@@ -28,7 +28,7 @@ One round period is called Block Generation Interval (BGI) or Round Trip Time (R
 
 The minimum delay time of t1 is 500 msecs. This is the minimum time to ensure that the block of one consensus group and all transaction/contract information accordingly are replicated to the other consensus group. Therefore, if a block is created in 4 clusters, a BGI of at least 2 sec must be guaranteed. In other words, the block generation cycle of one cluster is 2 sec.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Block Generation Period Vs. Number of Blocks</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (5).png" alt=""><figcaption><p>Block Generation Period Vs. Number of Blocks</p></figcaption></figure>
 
 ### Security Layer
 
@@ -42,5 +42,5 @@ Send to The IS checks whether the node is a valid node based on information regi
 
 The IS transmits a P2P main network list and a P2P sub-network configuration list to each node according to the functions and roles of the nodes in the system. After receiving information for system operation , each node starts the system for each role. After confirming that all nodes are operating, the IS sends a block generation command to the P2P consensus group to generate a Genesis block. The P2P consensus group that has received the block generation command starts block generation.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Control Sequence for Consensus Group Configuration</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Control Sequence for Consensus Group Configuration</p></figcaption></figure>
 
