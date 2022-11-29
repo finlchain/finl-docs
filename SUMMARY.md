@@ -5,7 +5,6 @@
   * [What is FINL?](introduction-to-finl/what-is-finl.md)
   * [FINL Brand Assets](introduction-to-finl/finl-brand-assets.md)
   * [History of FINL](introduction-to-finl/history-of-finl.md)
-  * [Glossary](introduction-to-finl/glossary.md)
   * [Terminology](introduction-to-finl/terminology.md)
   * [Disclaimer](introduction-to-finl/disclaimer.md)
 
