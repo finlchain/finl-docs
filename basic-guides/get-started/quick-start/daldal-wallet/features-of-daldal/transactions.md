@@ -46,4 +46,4 @@ When you sure about your decision, press \[Send Now]. If you want to change some
 
 You can check the history of the recent 10 transfers of the Token. You can move to the FINLSCAN to check the details of the smart contract by press \[explore].
 
-<figure><img src="../../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 If you own any NFT, you can see the button appears on main page of DALDAL.
 
-<figure><img src="../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 Click upon button to move to the NFT list page.
 
@@ -44,7 +44,7 @@ If you decided to ‘**Transfer**’ the selected NFT to another wallet, select 
 
 Then, enter the wallet name to receive the NFT on the below area.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 #### Update Key (Json File)
 

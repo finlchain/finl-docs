@@ -6,7 +6,7 @@ As a core element of FINL, it is used everywhere, including User, Block Explorer
 
 The core of FVM is implemented in C/C++. Core Function can be accessed through LUA Script, Node JS, or C/C++. Based on this structure, the same standard API can be applied anywhere.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>FVM Structure</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption><p>FVM Structure</p></figcaption></figure>
 
 ## FVM Roles
 

@@ -4,7 +4,7 @@
 
 The FINL network is largely divided into Main Chain and Sub Chain. The Main Chain acts as a Public Network, and the Sub Chain can be used as a Private Network. It is used as Globalization, and Sub Chain is used as Localization. Main Chain and Sub Chain actually function the same and are connected by Net Connector.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Overall flow of Main Chain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (4).png" alt=""><figcaption><p>Overall flow of Main Chain</p></figcaption></figure>
 
 Net Connector or User uses Kafka/Zookeeper messaging cloud system to send transaction to chain.&#x20;
 
@@ -14,7 +14,7 @@ Block Producer (BP) is composed of odd numbers, and each BP composes its own Clu
 
 Block Explorer can search all information such as Transaction information, Contract information, and Block information stored in the Chain DB through DB Explorer.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Overall flow of Sub Chain</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Overall flow of Sub Chain</p></figcaption></figure>
 
 The core functions of Chain can be divided into Control Path and Data Path. Control Path consists of IS, I SAG, and ISA. IS and ISAG act as independent nodes, and ISA operates as an application in Network Nod e (NN). Data Path consists of SCA and NNA, and both operate as applications in NN.&#x20;
 
@@ -28,7 +28,7 @@ The SCA in the NN subscribes to the transaction through the messaging cloud syst
 
 Users can receive their account information and various public information through Block Explorer or a similar Node Application. In addition, a user can create a transaction, and the created transaction information is published in the messaging cloud system.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Overall flow of Clusters</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Overall flow of Clusters</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>Replication flow</p></figcaption></figure>
 
