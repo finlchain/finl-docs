@@ -6,7 +6,7 @@
 
 Account Number consists of a total of 64 bits and is largely divided into Token Account and User Account.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Creation Rules of Account Number</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Creation Rules of Account Number</p></figcaption></figure>
 
 **NOTE** : Refer to [ISO3166-1](https://en.wikipedia.org/wiki/ISO\_3166-1) numeric for country codes and subdivision codes. If the subdivision codes of a country are NOT numeric values, then the codes should be mapped to numeric values.
 

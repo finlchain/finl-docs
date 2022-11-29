@@ -84,7 +84,7 @@ If you already have the wallet of FINL, you can use it again with the below step
 
 #### Step 3-1. Click the \[Import Wallet]
 
-![](<../../../../.gitbook/assets/image (8) (1).png>)   ![](<../../../../.gitbook/assets/image (6).png>)
+![](<../../../../.gitbook/assets/image (8) (1).png>)   ![](<../../../../.gitbook/assets/image (6) (1).png>)
 
 #### Step 3-2. Terms of Service
 
