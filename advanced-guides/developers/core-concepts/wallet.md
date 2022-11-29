@@ -2,8 +2,6 @@
 
 ## FINL Key Generation
 
-
-
 FIP39 provides two ways to create and restore wallets.
 
 In both methods, you can create a wallet by preparing a single sentence and password.
@@ -14,9 +12,9 @@ The converted password and hash values are subjected to XOR processing using ran
 
 Optionally, the sentence part may use a mnemonic word of BIP39. However, because Hash Processing and XOR Processing are used internally, the value is different from the value of BIP39.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>FIP 39 Method 1 and FIP 32</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIP 39 Method 1 and FIP 32</p></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>XOR Processing of Password and Salt used by PBKDF2 for FIP 39 Method 1</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>XOR Processing of Password and Salt used by PBKDF2 for FIP 39 Method 1</p></figcaption></figure>
 
 The second method provides the same method as BIP39. Mnemonic derived from entropy can be listed in one sentence. In this case, Passphrase is optional. Each sentence and passphrase are converted into Multi bytes.
 
