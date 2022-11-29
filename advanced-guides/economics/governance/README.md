@@ -24,6 +24,23 @@ $$
 Z_k = A * exp(-B *i) + C
 $$
 
-The basic inflation rate (IR) for each number of nodes is 8%, and the inflation weight ($$Z_k$$ ) for each node is applied to A 86.43% to 167.19% inflation weight ($$N_k$$ ) is given. Accordingly, from node 1 to node 70, It has an initial inflation rate of 6.91% (8% \* 86.43%) and 13.38% from the 911 node to the 980 node. It has an initial inflation rate of (8% \* 167.19%).
+The basic inflation rate (IR) for each number of nodes is 8%, and the inflation weight for each node ($$Z_k$$ ) is applied to A 86.43% to 167.19% inflation weight ($$N_k$$ ) is given. Accordingly, from node 1 to node 70, It has an initial inflation rate of 6.91% (8% \* 86.43%) and 13.38% from the 911 node to the 980 node. It has an initial inflation rate of (8% \* 167.19%).
 
-Inflation rate (\$$N\_k\$$)
+#### Inflation rate by number of nodes ($$N_k$$)
+
+$$IR=8%$$
+
+$$Z_k = A * exp (-B * i ) + C;$$$$where A = 138.06306475, B = 0.06764022, C = 29.12741104, 1 \leqq k \leqq 14, and 13 \geqq i \geqq  0$$
+
+
+
+|                      k |          n (number of nodes)          |                      i |
+| ---------------------: | :-----------------------------------: | ---------------------: |
+| $$1 \leqq k \leqq 14$$ | $$(70*(k-1))+1 \leqq n \leqq (70*k)$$ | $$13 \geqq i \geqq 0$$ |
+
+
+
+
+
+
+
