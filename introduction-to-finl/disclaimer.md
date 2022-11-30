@@ -6,7 +6,7 @@ Furthermore, nothing in this project constitutes a solicitation for investment. 
 
 ## Credit
 
-Some of icons used in this project are made by ionic from below sites.
+Some of icons used in this project are made by below sites.
 
 * [https://ionic.io/ionicons](https://ionic.io/ioniconshttps://flaticon.com/)
 * [https://flaticon.com/](https://ionic.io/ioniconshttps://flaticon.com/)

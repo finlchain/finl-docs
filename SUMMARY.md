@@ -63,4 +63,4 @@
 ## LEGAL ISSUES
 
 * [Terms of Use](legal-issues/terms-of-use.md)
-* [Disclaimer](legal-issues/disclaimer.md)
+* [Disclaimer](introduction-to-finl/disclaimer.md)
