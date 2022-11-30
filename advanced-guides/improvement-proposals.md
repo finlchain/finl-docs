@@ -1,4 +1,2 @@
-# Enhancement Proposals
-
-
+# Improvement Proposals
 
