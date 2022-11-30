@@ -57,7 +57,7 @@
   * [Native Coin - FIN](advanced-guides/economics/native-coin-fin.md)
   * [Governance](advanced-guides/economics/governance.md)
   * [Token Economy](advanced-guides/economics/governance-1.md)
-* [Enhancement Proposals](advanced-guides/improvement-proposals/README.md)
+* [Enhancement Proposals](advanced-guides/improvement-proposals.md)
   * [FEP Purpose and Guidelines](advanced-guides/improvement-proposals/fep-purpose-and-guidelines.md)
 * [Scaling Solutions](advanced-guides/scaling-solutions.md)
 
