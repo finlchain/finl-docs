@@ -6,7 +6,6 @@
   * [FINL Brand Assets](introduction-to-finl/finl-brand-assets.md)
   * [History of FINL](introduction-to-finl/history-of-finl.md)
   * [Terminology](introduction-to-finl/terminology.md)
-  * [Disclaimer](introduction-to-finl/disclaimer.md)
 
 ## BASIC GUIDES
 
@@ -64,3 +63,4 @@
 ## LEGAL ISSUES
 
 * [Terms of Use](legal-issues/terms-of-use.md)
+* [Disclaimer](legal-issues/disclaimer.md)
