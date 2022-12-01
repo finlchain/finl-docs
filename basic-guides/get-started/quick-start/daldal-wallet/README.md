@@ -7,7 +7,7 @@ _DALDAL WALLET is an account management tool that connects to the FINL through a
 _DALDAL WALLET is prepared for you with two different types._
 
 * __[_www.daldal.io_](http://daldal.io) _is for MainNet of FINL._
-* __[_halla.daldal.io_](http://halla.daldal.io) _is for Halla(TestNet of FINL)._
+* __[_halla.daldal.io_](http://halladaldal.io) _is for Halla(TestNet of FINL)._
   * _TestNet is available for **testing purposes only**._
   * _The result of TestNet is **NOT** applied on the MainNet._
 

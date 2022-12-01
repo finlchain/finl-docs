@@ -18,6 +18,7 @@
         * [Token List](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/token-list.md)
         * [Transactions](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/transactions.md)
         * [NFT](basic-guides/get-started/quick-start/daldal-wallet/features-of-daldal/nft.md)
+    * [DalDal Wallet Extension](basic-guides/get-started/quick-start/daldal-wallet-extension.md)
     * [FINL Scan](basic-guides/get-started/quick-start/finl-scan.md)
 
 ## ADVANCED GUIDES
