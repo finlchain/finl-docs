@@ -62,5 +62,6 @@
 
 ## LEGAL ISSUES
 
-* [Terms of Use](legal-issues/terms-of-use.md)
 * [Disclaimer](introduction-to-finl/disclaimer.md)
+* [Terms of Use](legal-issues/terms-of-use.md)
+* [Privacy Policy](legal-issues/privacy-policy.md)
