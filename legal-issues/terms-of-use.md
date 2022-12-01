@@ -76,7 +76,7 @@ The trademarks, logos and service marks displayed on the Services (the Marks) ar
 
 ### Privacy Policy
 
-By using the Services, you are agreeing to the Company’s privacy policy, which can be found \[[here](https://app.gitbook.com/o/rH1KY2pQrv2DuxOdq17a/s/vBzKaXqTDiKrUfx2C5Y0/\~/changes/cXoAZHXqX5p30Vkaaipr/legal-issues/privacy-policy)].
+By using the Services, you are agreeing to the Company’s privacy policy, which can be found \[[here](https://docs.finlchain.org/finl-docs/legal-issues/privacy-policy)].
 
 ### Termination of the Services or Materials
 
