@@ -5,4 +5,4 @@ finl Brand Assets
 
 <figure><img src="../.gitbook/assets/finlchain_symbol.png" alt=""><figcaption><p>finlchain symbol logo</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/finlchain_logo2.png" alt=""><figcaption><p>finl coin symbol</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/finlchain_logo2.png" alt=""><figcaption><p>finl coin signature logo</p></figcaption></figure>
