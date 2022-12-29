@@ -1,2 +1,2 @@
-# FINL Brand Assets
+# FINL Brand Assets.
 
