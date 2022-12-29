@@ -1,3 +1,1 @@
-# DalDal Wallet Extension
-
-# for CHROME
+# DalDal Wallet Extension for CHROME
