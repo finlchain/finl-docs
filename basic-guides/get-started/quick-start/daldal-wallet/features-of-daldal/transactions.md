@@ -10,15 +10,15 @@ Click the \[Send] button on \[Token List].
 
 ### Send Token
 
-<figure><img src="../../../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/daldal-wallet/ddw_util_tkn_list_3.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/daldal-wallet/ddw_send_token_pw.png" alt=""><figcaption></figcaption></figure>
 
 #### \[Send To] field
 
 You have to write the wallet name that you want to send the Token. If you have already imported your another wallet, you can select it from the list. Or you can also enter the other user's wallet name that exists on the FINL.
 
-<figure><img src="../../../../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/daldal-wallet/ddw_send_to.png" alt=""><figcaption></figcaption></figure>
 
 #### \[Amount] field
 
@@ -36,7 +36,7 @@ When the written password is proper, you can move on Next.
 
 
 
-<figure><img src="../../../../../.gitbook/assets/image (7) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/daldal-wallet/ddw_send_token_0.png" alt=""><figcaption></figcaption></figure>
 
 **NOTE :** Check your inputs before you make a transaction.
 
@@ -46,4 +46,4 @@ When you sure about your decision, press \[Send Now]. If you want to change some
 
 You can check the history of the recent 10 transfers of the Token. You can move to the FINLSCAN to check the details of the smart contract by press \[explore].
 
-<figure><img src="../../../../../.gitbook/assets/image (7) (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/daldal-wallet/ddw_send_token_txns.png" alt=""><figcaption></figcaption></figure>

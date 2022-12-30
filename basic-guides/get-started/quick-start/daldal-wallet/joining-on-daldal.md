@@ -2,7 +2,7 @@
 
 ## New Users
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/daldal-wallet/ddw_welcome.png" alt=""><figcaption></figcaption></figure>
 
 ### Step 1. Create a Key
 
@@ -14,7 +14,7 @@ When you lost your KeyStore File, you can **RESTORE** KeyStore File by following
 
 Click the \[Create Key] button to create your own key.
 
-<figure><img src="../../../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/daldal-wallet/ddw_create_key_step1.png" alt=""><figcaption></figcaption></figure>
 
 #### Step 1-2. Password
 
@@ -42,7 +42,7 @@ You should be already on Create Wallet page by following previous step.
 
 Click the \[Create Wallet] button to be a member of the FINL.
 
-<img src="../../../../.gitbook/assets/image (3) (2).png" alt="" data-size="original">  <img src="../../../../.gitbook/assets/image (1) (1) (2).png" alt="" data-size="original">
+<img src="../../../../.gitbook/assets/daldal-wallet/ddw_create_wallet_step2.png" alt="" data-size="original">  <img src="../../../../.gitbook/assets/daldal-wallet/ddw_create_wallet_pw.png" alt="" data-size="original">
 
 #### Step 2-2. Wallet Name
 
@@ -84,7 +84,7 @@ If you already have the wallet of FINL, you can use it again with the below step
 
 #### Step 3-1. Click the \[Import Wallet]
 
-![](<../../../../.gitbook/assets/image (8) (1).png>)   ![](<../../../../.gitbook/assets/image (6) (1).png>)
+![](<../../../../.gitbook/assets/daldal-wallet/ddw_import_wallet_step3.png>)   ![](<../../../../.gitbook/assets/daldal-wallet/ddw_import_wallet_pw.png>)
 
 #### Step 3-2. Terms of Service
 
