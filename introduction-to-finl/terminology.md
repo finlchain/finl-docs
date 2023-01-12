@@ -20,6 +20,10 @@ Block Generation Time
 
 Command Line Interface
 
+## DGoS
+
+Distributed Governance Organization Syndicate
+
 ## DPoR
 
 Delegated Proof of Reputation
