@@ -20,7 +20,7 @@ Block Generation Time
 
 Command Line Interface
 
-## DGoS
+## DGOS
 
 Distributed Governance Organization Syndicate
 
