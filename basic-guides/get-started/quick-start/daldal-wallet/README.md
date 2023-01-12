@@ -15,5 +15,5 @@ _MainNet and Halla(TestNet of FINL) **are totally separated.**_
 
 _Please check and make sure about the type of wallet before you use the DALDAL WALLET._
 
-__![](<../../../../.gitbook/assets/image (3) (1).png>)  __  ![](<../../../../.gitbook/assets/image (2) (1) (1).png>)__
+__![](<../../../../.gitbook/assets/image (3) (1).png>)  __  ![](<../../../../.gitbook/assets/image (4) (1).png>)__
 

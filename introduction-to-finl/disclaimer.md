@@ -1,8 +1,10 @@
 # Disclaimer
 
-All contents described in this project are built up by FINL project team. It is up to the reader to check and validate their accuracy and truthfulness.
+All contents described in this project are built and provided by FINL project team (FINL LLC). It is highly recommended to read and check all the terms & conditions and privacy policy carefully.
 
-Furthermore, nothing in this project constitutes a solicitation for investment. The decision to invest in a particular coin is purely a personal decision and should be based on logical grounds.
+This project does not have any intent to solicitor any person or any particular groups to invest in FINL project, any particular coins or tokens. A decision of the investment is your personal choice.&#x20;
+
+FINL LLC highly recommends you to make your reasonable decision with your logical grounds.
 
 ## Credit
 
