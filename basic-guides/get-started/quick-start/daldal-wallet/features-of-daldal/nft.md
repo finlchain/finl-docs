@@ -11,8 +11,7 @@ You can check bellows.
 1. The list of NFT you own, and
 2. The history of the recent 10 transfers of your own NFT.
 
-![](<../../../../../.gitbook/assets/daldal-wallet/ddw_nft_list_own.png>)    ![](<../../../../../.gitbook/assets/daldal-wallet/ddw_nft_list_txns.png>)\
-
+![](../../../../../.gitbook/assets/daldal-wallet/ddw\_nft\_list\_own.png) ![](../../../../../.gitbook/assets/daldal-wallet/ddw\_nft\_list\_txns.png)
 
 ## NFT Token Sub-memus
 
@@ -40,7 +39,7 @@ NFT Name and Token ID of selected NFT is already written on.
 
 #### \[Send To] field
 
-If you decided to ‘**Transfer**’ the selected NFT to another wallet, select the \[Transfer].&#x20;
+If you decided to ‘**Transfer**’ the selected NFT to another wallet, select the \[Transfer].
 
 Then, enter the wallet name to receive the NFT on the below area.
 
@@ -54,11 +53,10 @@ You have to upload the KeyStore File of the wallet to make a signature of smart 
 
 When the entered password is proper, you can move on Next by press the \[Next >].
 
-![](<../../../../../.gitbook/assets/daldal-wallet/ddw_nft_transfer_3.png>)    ![](<../../../../../.gitbook/assets/daldal-wallet/ddw_nft_transfer_4.png>)
+![](../../../../../.gitbook/assets/daldal-wallet/ddw\_nft\_transfer\_3.png) ![](../../../../../.gitbook/assets/daldal-wallet/ddw\_nft\_transfer\_4.png)
 
 **NOTE :** Check your inputs before you make a transaction.
 
 When you make sure about your decision, press \[Send Now].
 
 If you want to change something, you can press \[Back] to make it.
-
