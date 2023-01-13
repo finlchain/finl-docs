@@ -10,7 +10,7 @@ Each NNA belonging to the consensus group is logically composed of a P2P Network
 
 ### P2P Network Layer
 
-<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>P2P Header Description</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3) (1).png" alt=""><figcaption><p>P2P Header Description</p></figcaption></figure>
 
 The P2P address system, which is the basis of the P2P network, consists of a total of 64 bits.
 
@@ -32,8 +32,6 @@ The minimum delay time of t1 is 500 msecs. This is the minimum time to ensure th
 
 ### Security Layer
 
-
-
 ## Consensus Group Configuration
 
 Each node in the system transmits hardware information, public key necessary for consensus, and vario us node information through ISA.
@@ -43,4 +41,3 @@ Send to The IS checks whether the node is a valid node based on information regi
 The IS transmits a P2P main network list and a P2P sub-network configuration list to each node according to the functions and roles of the nodes in the system. After receiving information for system operation , each node starts the system for each role. After confirming that all nodes are operating, the IS sends a block generation command to the P2P consensus group to generate a Genesis block. The P2P consensus group that has received the block generation command starts block generation.
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Control Sequence for Consensus Group Configuration</p></figcaption></figure>
-

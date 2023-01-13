@@ -2,7 +2,7 @@
 
 ## Contract Description
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Contract fields</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Contract fields</p></figcaption></figure>
 
 ### Contract fields
 
@@ -49,8 +49,6 @@ It is the signature of the contract sender.
 #### Signed Public Key
 
 It is the public key used as the wallet of the contract sender.
-
-
 
 ## NFT
 
