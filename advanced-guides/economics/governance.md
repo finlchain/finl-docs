@@ -30,9 +30,7 @@ The basic inflation rate (IR) for each number of nodes is 8%, and the inflation 
 
 $$IR=8%$$
 
-$$Z_k = A * exp (-B * i ) + C;$$$$where\, A = 138.06306475, B = 0.06764022, C = 29.12741104, 1 \leqq k \leqq 14, and\, 13 \geqq i \geqq  0$$
-
-
+$$Z_k = A * exp (-B * i ) + C;$$$$where\, A = 138.06306475, B = 0.06764022, C = 29.12741104, 1 \leqq k \leqq 14, and\, 13 \geqq i \geqq 0$$
 
 |                      k |          n (number of nodes)          |                      i |
 | ---------------------: | :-----------------------------------: | ---------------------: |
@@ -47,7 +45,7 @@ Z_{y=1} = 100\%\; and\; Z_{y\geqq2} = Z_{y-1}*90\%
 $$
 
 $$
-IR_y = Z_{y=1} * N_k; where\, y= 1,\; \newline IR_y = Z_y * N_k; where y \geqq 2
+IR_y = Z_{y=1} * N_k; where\, y= 1,\; \newline IR_y = Z_y * N_k; where\, y \geqq 2
 $$
 
 Accordingly, the total supply by Year 12 fluctuates from approximately 1 billion to 1.27 billion depending on the number of nodes.
