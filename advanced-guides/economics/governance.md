@@ -1,5 +1,11 @@
 # Governance
 
+## DGOS
+
+The DGOS Foundation is FINL's decentralized consensus organization, which establishes and implements FINL's monetary policy, and manages the amount of currency issued each year.
+
+The DGOS Foundation can implement various policies to vitalize the FINL's ecosystem.
+
 ## Currency and Issuance
 
 ### Unit of Currency
