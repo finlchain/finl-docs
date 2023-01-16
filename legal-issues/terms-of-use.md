@@ -1,92 +1,77 @@
 # Terms of Use
 
-Please read these Terms of Use (the Terms) carefully if you are the people (the Users) who use the services provided by FINL LLC, its affiliates and agents (the Company) where they are binding as a legal agreement between the Users and the Company.
+FINL LLC highly recommends anyone who wants to use the services (the Services) provided by the Company to read the Terms of Use (the Terms) carefully before using the Services.
 
 ## Definitions
 
 ### The Company
 
-_The Company_ includes  FINL LLC, its affiliates and agents (the company)
-
-### The Company Materials
-
-_The Company Materials_ means those Materials that are made available through the Services by Company or its licensors and specifically do not include Materials made by you or other users of the Services.
+The Company means FINL LLC and its corporate affiliates.
 
 ### The Marks
 
-_The Marks_ means The trademarks, logos and service marks displayed on the Services
+The Marks means the trademarks, logos and service marks displayed on the Services.
 
-### The Services or Materials
+### The Materials
 
-_The Services or Materials_ means any content made available or enabled by Company, you or other users of the Services and includes, without limitation, any information, data, documents, images, photographs, graphics, audio, videos, or webcasts, products, and Company software code and associated documentation (“Software”).
+The Materials means any content made available or enabled by the Company for anyone who wants to use the Services. It includes, without limitation, any information, data, documents, images, photographs, graphics, audio, videos, or webcasts, products, and the Company’s software code and associated documentation.
 
-### The Terms
+### The Website
 
-The Terms means Terms of Use.
+The Website means the website provided and managed by the Company.
+
+### The Users ('You')
+
+The Users (‘You’) means any persons who access the Website or use the Services or the Materials.
 
 ## AGREEMENT TO TERMS
 
-BY ACCESSING OR USING THE SERVICE, YOU AGREE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THE TERMS. IF YOU DO NOT AGREE, PLEASE DO NOT USE THE MATERIALS.
+As you access or use the Services or the Materials, you agree that you have read, understood the Terms and the Terms is binding to you. If you do not agree this, please do not use the Services and the Materials.
 
-**You must be at least 18 years of age and the minimum age of digital consent in your country to access the Services or Materials, and that you have the right, authority, and capacity to enter into this Agreement on your behalf or on behalf of the entity or organization that you present.**
+You must be the legal age to trade crypto asset and the minimum age or older of digital consent under the jurisdiction of your country where you reside in to access the Services and Materials to enter into this Agreement on behalf of someone or on behalf of the entity or organization that you present. If you do not meet all these requirements, you may not access or use the Services and the Materials. Using the Services or/and the Materials is amount to giving a consent which you satisfy all these requirements.
 
-If you do not meet all these requirements, you may not access or use the Materials. Using the Materials is amount to giving a consent which you meet all these requirements.
+## Amendment of the Terms
 
-### Change to the Terms
+The Company reserves the right to amend the Terms at its sole discretion without any notice to the Users. The latest version of the Terms will be posted on the Website. The Users will be responsible to check and read the amended Terms on the Website. FINL LLC highly recommends the Users to check and read all the amended terms before accessing to the Website or using the Services or/and the Materials.
 
-The Company reserves the right to change these Terms from time to time at its sole discretion and without notice to you.
+All the amended terms will be effective immediately when posted on the Website. Accessing to the Website, using the Services or the Materials is amount to giving your consent to all the amended terms binding to you.
 
-The latest version of these Terms will be posted on the Website and should be reviewed prior to accessing or using the Website.
+## Using and modifying the Services and the Materials
 
-All changes will be effective immediately when posted on the Website and will apply to your use of, and access to, the Website from that point onward. Your continued use of or access to the Website following any changes to this Agreement shall constitute your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-
-You should check this page frequently so that you are aware of any changes.
-
-## Use of the Services and Materials
-
-### Modifications to the Services or Materials
-
-The Company may at any time and from time to time modify or discontinue, temporarily or permanently, the Services or Materials, or any portion thereof, with or without notice.
-
-You agree that Company shall not be liable to you or any third party for any modification, suspension or discontinuance of the Services or Materials.
+The Company may modify or discontinue the Services or the Materials, or any portion thereof, with or without notice temporarily or permanently. The Company shall not be responsible to the Users or any other third parties for any modification, suspension or discontinuity of the Services or/and the Materials.
 
 ### Disclaimer of Warranties
 
-THE COMPANY MAKES NO WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, IN RELATION TO THE MATERIALS.
+The Company makes no warranties, express or implied, including without limitation, any implied warranties of merchantability or fitness for a particular purpose, in relation to the Materials.
 
-Furthermore, the Company disclaims (a) any and all responsibility or liability for the accuracy, content, completeness, legality, reliability, or availability or operability of information or materials displayed on the Services, or the Company website or any of its sub-pages; (b) any and all responsibility for the conduct of any user of the Services; (c) any and all responsibility for any harm resulting from downloading or accessing any information or material on the Internet through the Service, the Company website or any of its subpages; (d) any and all responsibility for any financial gains, losses or tax consequences associated with the your use of the Services and the associated cryptocurrency.
-
-SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO THE ABOVE EXCLUSIONS MAY NOT APPLY TO YOU.
+Furthermore, the Company disclaims (a) any and all responsibility or liability for the accuracy, content, completeness, legality, reliability, or availability or operability of information or materials displayed on the Services, or the Website or any of its subpages; (b) any and all responsibility for the conduct of the Users of the Services; (c) any and all responsibility for any harm resulting from downloading or accessing any information or material on the Internet through the Services, the Website or any of its subpages; (d) any and all responsibility for any financial gains, losses or tax consequences associated with using the Services and the associated crypto asset.
 
 ### Limitation of Liability
 
-UNDER NO CIRCUMSTANCES WILL COMPANY BE LIABLE TO YOU OR ANY OTHER PERSON FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL, EXEMPLARY, OR PUNITIVE DAMAGES ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OF SERVICE, THE SERVICE, THE USE OF THE CRYPTOCURRENCY, OR THE INTERNET GENERALLY, INCLUDING, WITHOUT LIMITATION, YOUR USE OR INABILITY TO USE THE SERVICES; ANY CHANGES TO OR INACCESSIBILITY OR TERMINATION OF THE SERVICES; ANY DELAY, FAILURE, UNAUTHORIZED ACCESS TO OR ALTERATION OF ANY TRANSMISSION OR DATA; ANY TRANSACTION OR AGREEMENT ENTERED INTO THROUGH THE SERVICES; OR ANY DATA OR MATERIAL FROM A THIRD PERSON ACCESSED ON OR THROUGH THE SERVICES, WHETHER SUCH LIABILITY IS ASSERTED ON THE BASIS OF TORT OR OTHERWISE, AND WHETHER OR NOT COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+Under no circumstances will the Company be liable to you or any other persons for any indirect, incidental, consequential, special, exemplary, or punitive damages arising out of or in connection with the Terms, the Services, using crypto asset or the Internet generally, including, without limitation, your use or inability to use the Services; any changes to or inaccessibility or termination of the Services; any delay, failure, unauthorized access to or alteration of any transmission or data; any transactions or agreements entered into through the Services; or any data or materials from a third party accessed on or through the Services, whether such liability is asserted on the basis of tort or otherwise, and whether or not the Company has been advised of the possibility of such damages.
 
-SUCH LIMITATION OF LIABILITY SHALL APPLY WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF AND RELIANCE ON COMPANY OR THE SERVICES, NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY AND TO THE FULLEST EXTENT PERMITTED BY LAW. IF YOU ARE DISSATISFIED WITH THE SERVICES, YOUR SOLE AND EXCLUSIVE REMEDY SHALL BE FOR YOU TO DISCONTINUE YOUR USE OF THE SERVICES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION AND EXCLUSIONS MAY NOT APPLY TO YOU.
+Such limitation of liability shall apply whether the damages arise from use or misuse of and reliance on the Company or the Services, notwithstanding any failure of essential purpose of any limited remedy and to the fullest extent permitted by law. If you are dissatisfied with the Services, your sole and exclusive remedy shall be for you to discontinue using the Services.
 
-YOU AGREE TO HOLD HARMLESS AND INDEMNIFY COMPANY, ITS DIRECTORS, OFFICERS, EMPLOYEES AND AGENTS FROM AND AGAINST ANY ACTION, CAUSE CLAIM, SUIT, JUDGMENT, DAMAGE (ACTUAL AND CONSEQUENTIAL), DEBT, DEMAND, EXPENSE OR LIABILITY (INCLUDING REASONABLE COSTS AND ATTORNEY’S FEES) OF EVERY KIND AND NATURE, ASSERTED BY ANY PERSON, ARISING FROM OR IN ANY WAY RELATED TO YOUR USE OF THE SERVICES, THE CRYPTOCURRENCY OR COMPANY WEBSITES.
+The Users agree to hold harmless and indemnify the Company, its directors, officers, employees and agents from and against any action, cause claims, suit, judgment, damage (Actual and consequential), debt, demand, expense or liability (including reasonable costs and attorney’s fees) of every kind and nature, asserted by any person, arising from or in any way related to using the Services, crypto asset or the Website.
 
-THE FOREGOING DOES NOT AFFECT ANY LIABILITY WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW WHICH MAY INCLUDE FRAUD.
+The foregoing does not affect any liability which cannot be excluded or limited under applicable laws which may include fraud.
 
 ### Proprietary Rights
 
-The services run on open source software and freely distributable under the respective licenses.
+The Services run on open source software and freely distributable under the respective licenses.
 
-The trademarks, logos and service marks displayed on the Services (the Marks) are the property of Company or third parties. You are not permitted to use the Marks without the prior consent of Company or the third party that may own the Marks.
+The Marks is the property of the Company. The Users are not permitted to use the Marks without any consent from the Company.
 
 ### Privacy Policy
 
-By using the Services, you are agreeing to the Company’s privacy policy, which can be found \[[here](https://docs.finlchain.org/finl-docs/legal-issues/privacy-policy)].
+Using the Services is amount to the user’s consent to FINL LLC’s privacy policy, which can be found \[[here](https://docs.finlchain.org/finl-docs/legal-issues/privacy-policy)].
 
 ### Termination of the Services or Materials
 
-The Company, in its sole discretion, reserves the right (a) to terminate any user license if such user is violating these Terms of Use, or any applicable laws and regulations; (b) to remove or disable access to all or any portion of the Services; (c) to suspend any user’s access to or use of all or any portion of the Services; and (d) to remove any content from the Company’s servers at any time, with or without notice, for any or no reason.
+The Company, in its sole discretion, reserves the right (a) to terminate the Services for the users who violate the Terms or any applicable laws and regulations; (b) to remove or disable access to all or any portion of the Services; (c) to suspend any user’s access to or using all or any portion of the Services; and (d) to remove any content from the Company’s servers at any time with or without any notice.
 
-Also, you may terminate your access of or your use of the Services or Materials at any time.
+The Users may also terminate the Users’ access of using the Services or the Materials at any time.
 
 ### The Terms and Termination
 
-The Terms are effective as of the time you first access the Services, and shall survive any termination or expiration of the Services or Materials.
-
-
-
+The Terms are effective as of the time you first access the Services, and shall survive any termination or expiration of the Services or the Materials.
