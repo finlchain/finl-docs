@@ -64,7 +64,7 @@ The Marks is the property of the Company. The Users are not permitted to use the
 
 ### Privacy Policy
 
-Using the Services is amount to the user’s consent to FINL LLC’s privacy policy, which can be found \[[here](https://docs.finlchain.org/finl-docs/legal-issues/privacy-policy)].
+Using the Services is amount to the user’s consent to FINL LLC’s privacy policy, which can be found \[[here](privacy-policy.md)].
 
 ### Termination of the Services or Materials
 
