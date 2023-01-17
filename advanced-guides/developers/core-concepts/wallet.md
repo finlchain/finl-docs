@@ -10,7 +10,7 @@ For the first method, the password must be at least 10 bytes in length. Each sen
 
 The converted password and hash values are subjected to XOR processing using randomly generated 2bytes unsigned integer values. The output value obtained through XOR processing is hashed in PBKDF2, and the password is used as the password argument value, and the password is used as the salt argument input value. PBKDF2 is password and Hash the salt 2048 times to generate a seed value of 512 bits.
 
-Optionally, the sentence part may use a mnemonic word of BIP39. However, because Hash Processing and XOR Processing are used internally, the value is different from the value of BIP39.&#x20;
+Optionally, the sentence part may use a mnemonic word of BIP39. However, because Hash Processing and XOR Processing are used internally, the value is different from the value of BIP39.
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIP 39 Method 1 and FIP 32</p></figcaption></figure>
 
@@ -22,5 +22,4 @@ FIP32 can be regarded as the same as actual BIP32. The Random Number and Master 
 
 Password, Sentences 1, and Sentences 2 used as inputs when creating a wallet, and Random Number values provided as outputs are used when recovering the wallet. When recovering a wallet, after under going multi-bytes conversion and HASH concatenation as in the wallet creation step, the key value of the wallet can be recovered by using the random number provided by the wallet user instead of creating a new random number.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>FIP 39 Method 2 and FIP 32</p></figcaption></figure>
-
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>FIP 39 Method 2 and FIP 32</p></figcaption></figure>

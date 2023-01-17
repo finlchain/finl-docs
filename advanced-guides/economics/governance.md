@@ -56,6 +56,6 @@ $$
 
 Accordingly, the total supply by Year 12 fluctuates from approximately 1 billion to 1.27 billion depending on the number of nodes.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Supply by group/year</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (3).png" alt=""><figcaption><p>Supply by group/year</p></figcaption></figure>
 
 ##
