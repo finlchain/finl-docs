@@ -24,7 +24,7 @@ Extract the "7z" file, then "mingw64" folder should be existed on your local dis
 
 Copy and paste the extracted folder into "C:\Program Files".
 
-> C:\Program Files\mngw64
+> C:\Program Files\mingw64
 
 ### Set Windows System Environment variables
 
