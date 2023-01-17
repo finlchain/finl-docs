@@ -47,6 +47,8 @@
   * [Clients](advanced-guides/developers/clients/README.md)
     * [APIs](advanced-guides/developers/clients/apis.md)
   * [Installation](advanced-guides/developers/installation/README.md)
+    * [FVM](advanced-guides/developers/installation/fvm/README.md)
+      * [Prerequisite for Windows](advanced-guides/developers/installation/fvm/prerequisite-for-windows.md)
     * [Full Block Node](advanced-guides/developers/installation/full-block-node.md)
   * [Operation](advanced-guides/developers/operation.md)
   * [Tutorials](advanced-guides/developers/tutorials.md)
