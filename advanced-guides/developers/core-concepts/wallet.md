@@ -12,7 +12,7 @@ The converted password and hash values are subjected to XOR processing using ran
 
 Optionally, the sentence part may use a mnemonic word of BIP39. However, because Hash Processing and XOR Processing are used internally, the value is different from the value of BIP39.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>FIP 39 Method 1 and FIP 32</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>FIP 39 Method 1 and FIP 32</p></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (2) (5).png" alt=""><figcaption><p>XOR Processing of Password and Salt used by PBKDF2 for FIP 39 Method 1</p></figcaption></figure>
 

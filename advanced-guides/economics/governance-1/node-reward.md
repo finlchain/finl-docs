@@ -12,6 +12,6 @@ Node reward is a reward policy of FINL. The DGOS Foundation can perform node rew
 
 The table below shows the amount of node reward that occurs every year according to the DGOS policy, and the amount of reward may change according to the change of the DGOS policy.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption><p>Reward per Node by group/year</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Reward per Node by group/year</p></figcaption></figure>
 
 Node Reward is being made to ISAG nodes, NN nodes, and FBN nodes.
