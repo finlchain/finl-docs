@@ -28,7 +28,7 @@
         * [BlockChain](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/blockchain/README.md)
           * [Accounts](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/blockchain/accounts.md)
           * [Blocks](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/blockchain/blocks.md)
-          * [Contrack](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/blockchain/contract.md)
+          * [Contract](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/blockchain/contract.md)
           * [Transactions](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/blockchain/transactions.md)
         * [Detail Pages](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/detail-pages/README.md)
           * [Account Details](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/detail-pages/account-details.md)
