@@ -8,6 +8,6 @@
 
 > - Table                                         
 
-<figure><img src="../../../../../.gitbook/assets/finl-scan/tracker-tables.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/finl-scan/tracker-tables.png" alt=""><figcaption></figcaption></figure>
 The table has Name, Symbol, Account No, Market Supply, Action, BPs columns.
 User can see detail page of Token by clicking left-button on mouse.(name, symbol, action)
