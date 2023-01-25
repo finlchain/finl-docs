@@ -40,9 +40,9 @@
           * [Middle-Lower](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/home/middle-lower.md)
           * [Middle-Upper](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/home/middle-upper.md)
           * [Upper](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/home/upper.md)
-        * [Token](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/Token/README.md)
-          * [Tracker](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/Token/tracker.md)
-          * [Transfer](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/Token/transfer.md)
+        * [Token](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/tokens/README.md)
+          * [Tracker](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/tokens/tracker.md)
+          * [Transfer](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/tokens/transfer.md)
 
 ## ADVANCED GUIDES
 
