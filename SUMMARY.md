@@ -36,6 +36,8 @@
           * [Token Details](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/detail-pages/token-details.md)
           * [Transaction Details](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/detail-pages/transaction-details.md)
           * [NFT Details](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/detail-pages/nft-details.md)
+        * [NFT](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/NFT/README.md)
+          * [Node](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/NFT/node.md)
         * [Home](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/home/README.md)
           * [Lower](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/home/lower.md)
           * [Middle-Lower](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/home/middle-lower.md)
@@ -44,8 +46,6 @@
         * [Tokens](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/tokens/README.md)
           * [Tracker](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/tokens/tracker.md)
           * [Transfer](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/tokens/transfer.md)
-        * [NFT](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/NFT/README.md)
-          * [Node](basic-guides/get-started/quick-start/finl-scan/menu-on-block-explorer/NFT/node.md)
 
 ## ADVANCED GUIDES
 
