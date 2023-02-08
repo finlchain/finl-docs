@@ -1,7 +1,7 @@
 # DalDal Wallet Extension for CHROME
 
 
-1. Connect here https://chrome.google.com/webstore/detail/daldal-wallet/chpijpegbmmcdkcednimifhdjbfghngm?hl=en
+1. Connect here <a href="https://chrome.google.com/webstore/detail/daldal-wallet/chpijpegbmmcdkcednimifhdjbfghngm?hl=en">https://chrome.google.com/webstore/detail/daldal-wallet/chpijpegbmmcdkcednimifhdjbfghngm?hl=en</a>
 
 2. Click the block shape on the top and press the DALDAL-WALLET to add it  
 <figure><img src=".../../../../../.gitbook/assets/daldal-wallet/daldal1.png" alt=""><figcaption></figcaption></figure>
