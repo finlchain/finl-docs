@@ -15,5 +15,13 @@ _MainNet and Halla(TestNet of FINL) **are totally separated.**_
 
 _Please check and make sure about the type of wallet before you use the DALDAL WALLET._
 
-__![](<../../../../.gitbook/assets/image (3) (1).png>)  __  ![](<../../../../.gitbook/assets/image (4) (1).png>)__
+__![](<../../../../.gitbook/assets/daldal-wallet/daldal_bi_main.png>)  __  ![](<../../../../.gitbook/assets/daldal-wallet/daldal_bi_halla.png>)__
 
+<hr>
+
+## DalDal Wallet for Android
+[_move on **Google Play Store**_](https://play.google.com/store/apps/details?id=io.daldal.www.twa)
+<br>
+If you use the Android mobile phone, you can get download the DalDal Wallet as a mobile application from the Google Play Store.
+<br>
+![](<../../../../.gitbook/assets/daldal-wallet/ddw_android.PNG>)
